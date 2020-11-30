@@ -1,6 +1,3 @@
-# a = ['с', 'п', 'и', 'с', 'о', 'к']
-# print(a[2])
-# print(a.index('п'))
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w',
 'x' ,'y', 'z', ' ']
 crypto_letters = []
