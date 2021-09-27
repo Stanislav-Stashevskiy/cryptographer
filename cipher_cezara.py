@@ -25,7 +25,7 @@ if do == '1':
             crypto_letters.append(letter)
         print(crypto_letters)
         crypto_letters.clear()
-    print('Программа завершина!!!')
+    print('Программа завершена!!!')
 
 elif do == '2':
     cod = input('Введите код RОТ(1, 2, 3, 4...25):')
@@ -48,4 +48,4 @@ elif do == '2':
             crypto_letters.append(letter)
         print(crypto_letters)
         crypto_letters.clear()
-    print('Программа завершина!!!')
+    print('Программа завершена!!!')
